@@ -1,7 +1,7 @@
 # Site settings
 title: Blog Mustafayilmazco # site title
 description: >- # site description
- I'm Cyber Security Researcher & Analyst Sometime hacktivist
+ I'm Cyber Security Researcher & Analyst <br> sometime hacktivist
 lang: tr-TR # default lang
 timezone: Asia/Jakarta # set your timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
@@ -12,7 +12,7 @@ mode: dark # default theme "dark" | "light"
 author:
   name: Mustafa YILMAZ # author name
   bio: >- # tell to the world
-    I'm Cyber Security Researcher & Analyst Sometime hacktivist
+    I'm Cyber Security Researcher & Analyst <br> sometime hacktivist
   username: mustafayilmazco # general username
   github:   mustafayilmazco # github username
   twitter:  mustafayilmazco # twitter username
